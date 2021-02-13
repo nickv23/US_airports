@@ -12,7 +12,7 @@ can be found [here](https://bost.ocks.org/mike/).
 
 Below are images taken from the project of the continental United States, Alaska,
 Hawaii, and Puerto Rico.
-![continental US](img/continental_us.png)
-![alaska](img/alaska.png)
-![hawaii](img/hawaii.png)
-![puerto rico](img/puerto_rico.png)
+![continental US](img/continental_us.png | width=200)
+![alaska](img/alaska.png | width=200)
+![hawaii](img/hawaii.png | width=200)
+![puerto rico](img/puerto_rico.png | width=200)
