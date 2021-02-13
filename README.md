@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+##Airports within the US
 
-You can use the [editor on GitHub](https://github.com/nickv23/US_airports/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[This project](https://nickv23.github.io/US_airports/) is focused on mapping all
+of the airports within the US along with additional information. Clicking upon an
+airport icon will show the name of the airport as well as the state it is located
+in. The color of the airport icon signifies whether that airport has an air traffic
+control tower or not. The colors of the states signify the number of airports that
+said state contains, and the levels of magnitude can be found in the legend on the
+right. The source for the airports data can be found [here](https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile). The source for the states data
+can be found [here](https://bost.ocks.org/mike/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickv23/US_airports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Below are images taken from the project of the continental United States, Alaska,
+Hawaii, and Puerto Rico.
+![continental US](img/continental_us.png)
+![alaska](img/alaska.png)
+![hawaii](img/hawaii.png)
+![puerto rico](img/puerto_rico.png)
